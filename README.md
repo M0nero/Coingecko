@@ -1,4 +1,5 @@
 # Coingecko
+
 ## Requirements
 
 Requires `python3` and `requests` library.
@@ -10,7 +11,12 @@ pip install requests
 
 ### install script
 
-Clone the repository. You need to provide proper path in your test script
+Clone the repository. 
+
+```bash
+git clone https://github.com/M0nero/Coingecko.git
+cd Coingecko
+```
 
 ### edit path in the script
 
@@ -23,6 +29,10 @@ sys.path.insert(0, '/Users/gorda/Desktop/PyProjects/ass1/src')
 
 ## Usage
 
+```python
+cd coingecko\test
+python test.py
+```
 
 ## Examples
 
@@ -54,4 +64,5 @@ run test.py
 ```
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
