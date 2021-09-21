@@ -30,7 +30,7 @@ sys.path.insert(0, '/Users/gorda/Desktop/PyProjects/ass1/src')
 ## Usage
 
 ```python
-cd coingecko\test
+cd Coingecko\test
 python test.py
 ```
 
