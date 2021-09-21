@@ -30,6 +30,7 @@ sys.path.insert(0, '/Users/gorda/Desktop/PyProjects/ass1/src')
 ## Usage
 
 ```python
+# after installing the project and changing path
 cd Coingecko\test
 python test.py
 ```
@@ -52,15 +53,6 @@ Enter the number of displayed cryptocurrencies (1...250) : 7
 6 XRP
 7 Solana
 
-```
-
-## Test
-
-Run unit tests with:
-
-```
-# after installing the project and changing path
-run test.py
 ```
 
 ## License
