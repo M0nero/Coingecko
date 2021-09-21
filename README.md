@@ -6,7 +6,7 @@ Requires `python3` and `requests` library.
 ```sh
 pip install requests
 ```
-### Installation
+## Installation
 
 ### install script
 
@@ -21,10 +21,10 @@ sys.path.insert(0, '/Users/gorda/Desktop/PyProjects/ass1/src')
 ```
 
 
-### Usage
+## Usage
 
 
-### Examples
+## Examples
 
 You need just input a number of **_top_** N cryptocurrencies which are sorted by market capitalization.
 
@@ -44,7 +44,7 @@ Enter the number of displayed cryptocurrencies (1...250) : 7
 
 ```
 
-### Test
+## Test
 
 Run unit tests with:
 
