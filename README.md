@@ -49,7 +49,7 @@ Enter the number of displayed cryptocurrencies (1...250) : 7
 Run unit tests with:
 
 ```
-# after installing the project
+# after installing the project and changing path
 run test.py
 ```
 
