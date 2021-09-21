@@ -39,7 +39,7 @@ python test.py
 
 You need just input a number of **_top_** N cryptocurrencies which are sorted by market capitalization.
 
-Usage examples:
+### Usage examples:
 
 ```python
 
